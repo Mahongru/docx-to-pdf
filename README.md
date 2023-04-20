@@ -4,7 +4,6 @@ This script converts Word documents to PDF using the docx2pdf package. It is use
 # Usage
 1. Install the docx2pdf package using pip.
 
-# Copy code
 ```
 pip install docx2pdf
 ```
@@ -12,7 +11,6 @@ pip install docx2pdf
 
 3. Run the word_to_pdf.py script to convert the files to PDF.
 
-Copy code
 ```
 python word_to_pdf.py
 ```
